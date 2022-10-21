@@ -1,3 +1,3 @@
 # super-duper-tribble
-my first repository on github
-i love :coffee: :pizza:.
+MY first repository on GitHub
+I love :coffee: :pizza:, and :dancer:.
